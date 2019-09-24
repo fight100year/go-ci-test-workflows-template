@@ -1,13 +1,9 @@
 package main
 
-import (
-	"fmt"
-)
-
-func hello(somebody string) {
+func hello(somebody string) string {
 	if len(somebody) == 0 {
 		somebody = "world"
 	}
 
-	fmt.Println("hello ", somebody)
+	return "hello " + somebody
 }
