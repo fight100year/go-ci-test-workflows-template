@@ -7,6 +7,7 @@ a ci test workflows template for go
 
 <p align="left">
   <a href="https://github.com/fight100year/go-ci-test-workflows-template"><img alt="ci test status" src="https://github.com/fight100year/go-ci-test-workflows-template/workflows/ci-test/badge.svg"></a>
+  <a href="https://github.com/fight100year/go-ci-test-workflows-template"><img alt="greetings status" src="https://github.com/fight100year/go-ci-test-workflows-template/workflows/Greetings/badge.svg"></a>
 </p>
 
 you can add your diy badge  
