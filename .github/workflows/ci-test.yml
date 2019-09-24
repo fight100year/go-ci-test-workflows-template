@@ -1,8 +1,5 @@
 name: ci-test
-on: 
-  [push, pull_request]:
-    paths:
-      '*.go'
+on: [push, pull_request]
 
 jobs:
   build:
